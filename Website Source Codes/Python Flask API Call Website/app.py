@@ -1,7 +1,7 @@
 import requests
 from flask import Flask, render_template, request
 
-API_KEY = 'bd3359d1910f6d99b3d284848f9654baca040464'
+API_KEY = 'TIINGO_API_KEY'
 
 app = Flask(__name__)
 
